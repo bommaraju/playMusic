@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script src="playAudio.js"></script>
+      <script src="playAudio.js"></script>
 </head>
 <body>
 <script>
@@ -9,7 +9,7 @@
     x.setAttribute("src", "bsb.jpg");
     x.setAttribute("alt", "YOU");
     document.body.appendChild(x);
-    playAudio(['bsb.mp3']).autoplay();
+    playAudio(['bsb.mp3']).volume(0.9).autoplay().controls().loop(); //add controls
 </script>
 </body>
 </html>
