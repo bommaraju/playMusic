@@ -1,6 +1,6 @@
 # playMusic
 play --
-
+🎶
 >######Dhoom Again And Run Away With Me
 >######On A Rollercoaster Ride
 >######Dhoom Again And See Your Wildest
@@ -19,6 +19,9 @@ play --
 >######Dhoom Machaale ~~
 >######Once more com'on u people,
 >######Dhoom Machaale ~~
+🎶
+
+
 
 🎶 I don't care who you are 
 Where you're from
