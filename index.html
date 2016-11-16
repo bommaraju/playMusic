@@ -7,10 +7,10 @@
 <body>
 <script>
     var x = document.createElement("IMG");
-    x.setAttribute("src", "bsb.jpg");
+    x.setAttribute("src", "dhoom.jpg");
     x.setAttribute("alt", "YOU");
     document.body.appendChild(x);
-    var p = playAudio(['bsb.mp3']).controls().autoplay();
+     var p = playAudio(['dhoom.mp3']).controls().autoplay();
     p.play().controls().autoplay().volume(0.8).on('ended', function () {
         p.src(['bsb2.mp3']).play().controls().volume(0.8).loop(false).on('ended', function () {
         });
