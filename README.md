@@ -1,5 +1,24 @@
 # playMusic
-play -- 
+play --
+
+>######Dhoom Again And Run Away With Me
+>######On A Rollercoaster Ride
+>######Dhoom Again And See Your Wildest
+>######Dreams
+>######Slowly Come Alive
+>######Dhoom Again we Gotta Break The
+>######Rules
+>######And Party All The Time
+>######Dhoom Again we Gotta Steal The
+>######Show
+>######You Know That Ain't No Crime
+>######So Steal All That You Can
+>######The Magic You Begun
+>######Let's Shout, Break Out
+>######Come On Once Again lets Hear It
+>######Dhoom Machaale ~~
+>######Once more com'on u people,
+>######Dhoom Machaale ~~
 
 🎶 I don't care who you are 
 Where you're from
